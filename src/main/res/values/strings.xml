@@ -4,5 +4,8 @@
     <string name="app_name">GroceryListApp</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="lblView">Grocery Name</string>
+    <string name="lblGrocery">Quantity</string>
+    <string name="ADD">Add Grocery</string>
 
 </resources>

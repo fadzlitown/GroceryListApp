@@ -16,6 +16,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-    </application>
 
+
+        <!--Add provider that we've created bfore-->
+        <provider
+            android:authorities="com.example.provider.Kitchen"
+            android:name=".GroceriesProvider">
+
+            </provider>
+
+    </application>
 </manifest>
